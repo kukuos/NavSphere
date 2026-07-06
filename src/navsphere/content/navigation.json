@@ -2379,6 +2379,15 @@
               "icon": "/assets/favicon_1783359036730.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783359098263_ymqxwq9xr",
+              "title": "Net.Coffee",
+              "href": "https://ip.net.coffee/",
+              "description": "IP分流测试，查询本机 IP 地址及归属地，测试分流规则是否生效。支持国内外 35+ 网站出口 IP 检测、网络连通性测试，一键查看 Cloudflare、Discord、ChatGPT 等站点的实际出口。",
+              "icon": "/assets/favicon_1783359071841.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
