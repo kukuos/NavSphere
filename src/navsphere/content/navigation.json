@@ -2487,6 +2487,15 @@
               "icon": "/assets/favicon_1783358946653.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783359223421_02xz3fvam",
+              "title": "CoinGlass",
+              "href": "https://www.coinglass.com/",
+              "description": "加密货币数据分析",
+              "icon": "/assets/favicon_1783359210018.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         }
