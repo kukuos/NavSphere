@@ -2518,7 +2518,7 @@
               "title": "Binance",
               "href": "https://www.binance.com/zh-CN/support/announcement/list/93",
               "description": "最新活动，全球交易量最大、最具影响力的加密货币交易所之一",
-              "icon": "/assets/favicon_1783360614859.png",
+              "icon": "https://bin.bnbstatic.com/static/images/common/favicon.ico",
               "useDefaultIcon": false,
               "enabled": true
             }
