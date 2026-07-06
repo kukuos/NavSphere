@@ -2446,7 +2446,8 @@
               "title": "银河录像局合租平台",
               "href": "https://nf.video/",
               "description": "",
-              "icon": "",
+              "icon": "https://nf.video/favicon.ico",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
