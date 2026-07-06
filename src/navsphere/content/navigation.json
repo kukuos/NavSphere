@@ -2393,7 +2393,8 @@
               "title": "小修Windows",
               "href": "https://www.xiuxitong.com/",
               "description": "",
-              "icon": "",
+              "icon": "https://www.xiuxitong.com/favicon.ico",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
