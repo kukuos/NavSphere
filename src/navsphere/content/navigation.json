@@ -158,6 +158,15 @@
               "icon": "https://closedai.kylenqaq.com/logo.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783364011664_3toym9k2t",
+              "title": "DeepSeek",
+              "href": "https://chat.deepseek.com/",
+              "description": "",
+              "icon": "https://fe-static.deepseek.com/chat/favicon.svg",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
