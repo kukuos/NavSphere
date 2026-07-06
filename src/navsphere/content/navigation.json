@@ -2385,7 +2385,8 @@
               "title": "小米ROM刷机包",
               "href": "https://xiaomirom.com/",
               "description": "",
-              "icon": "",
+              "icon": "https://i02.appmifile.com/i18n/scm/favicon.ico",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
