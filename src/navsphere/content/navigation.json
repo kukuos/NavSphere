@@ -12,6 +12,15 @@
           "href": "https://trends.google.com/trends/",
           "description": "",
           "icon": "/assets/favicon_1765686636721.webp"
+        },
+        {
+          "id": "site_1783364080401_m74lq6zmm",
+          "title": "订阅",
+          "href": "https://www.youtube.com/feed/subscriptions",
+          "description": "",
+          "icon": "https://www.youtube.com/favicon.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": [],
