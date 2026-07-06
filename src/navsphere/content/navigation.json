@@ -870,6 +870,15 @@
               "icon": "/assets/favicon_1783358872230.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783359146127_j8wjiv69s",
+              "title": "美股行情-富途牛牛",
+              "href": "https://www.futunn.com/quote/us/stock-list/all-us-stocks/top-market-cap?adgroupid=&adposition=&campaignid=23820138174&creative=&device=c&devicemodel=&gad_campaignid=23825496173&gad_source=1&gbraid=0AAAAAC1CKHXuKiDgGqnNT_cKIlVqOp8S1&gclid=Cj0KCQjwiJvQBhCYARIsAMjts3JhFaBgU4lku-KAab3kLr1i5XjPOH6JLDfV1Ri6gtOXTnLjclEiCTQaAqkSEALw_wcB,Cj0KCQjwiJvQBhCYARIsAMjts3JhFaBgU4lku-KAab3kLr1i5XjPOH6JLDfV1Ri6gtOXTnLjclEiCTQaAqkSEALw_wcB&keyword=&loc_interest_ms=9061611&matchtype=&network=x&placement=&target=&targetid=",
+              "description": "富途牛牛美股行情中心，免费提供美股实时行情，包括今日美股股市大盘指数最新行情，走势，及股票个股的实时报价。",
+              "icon": "/assets/favicon_1783359128435.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
@@ -2377,15 +2386,6 @@
               "href": "https://appstoreprice.org/zh",
               "description": "实时对比全球各大区 App Store 的应用价格，帮您找到购买数字产品的最佳时机支持实时汇率换算和 AI 智能分析",
               "icon": "/assets/favicon_1783359036730.png",
-              "useDefaultIcon": false,
-              "enabled": true
-            },
-            {
-              "id": "site_1783359098263_ymqxwq9xr",
-              "title": "Net.Coffee",
-              "href": "https://ip.net.coffee/",
-              "description": "IP分流测试，查询本机 IP 地址及归属地，测试分流规则是否生效。支持国内外 35+ 网站出口 IP 检测、网络连通性测试，一键查看 Cloudflare、Discord、ChatGPT 等站点的实际出口。",
-              "icon": "/assets/favicon_1783359071841.png",
               "useDefaultIcon": false,
               "enabled": true
             }
