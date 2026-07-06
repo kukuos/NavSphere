@@ -2359,6 +2359,15 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1783358546164_gv37wkk9n",
+              "title": "Tiptrans",
+              "href": "https://www.tiptrans.com/price-list",
+              "description": "海外快递转运",
+              "icon": "/assets/favicon_1783358521945.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         }
