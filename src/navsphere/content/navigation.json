@@ -2460,6 +2460,15 @@
               "icon": "/assets/favicon_1783357518399.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783358971409_x0pyrqoip",
+              "title": "CoinGecko",
+              "href": "https://www.coingecko.com/zh/portfolios/124393732",
+              "description": "独立加密货币数据汇总平台",
+              "icon": "/assets/favicon_1783358946653.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         }
