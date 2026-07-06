@@ -1822,8 +1822,9 @@
               "id": "1768300000015",
               "title": "站长帮",
               "href": "https://www.zhanzhangb.com/",
-              "description": "",
-              "icon": "",
+              "description": "WordPress 汉化/插件/主题/模板",
+              "icon": "https://zy.zhanzhangb.cn/favicon.ico",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
