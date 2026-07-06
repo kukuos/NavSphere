@@ -2370,6 +2370,15 @@
               "icon": "/assets/favicon_1783358387098.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783359050646_9dxalyhm6",
+              "title": "App Store最低价",
+              "href": "https://appstoreprice.org/zh",
+              "description": "实时对比全球各大区 App Store 的应用价格，帮您找到购买数字产品的最佳时机支持实时汇率换算和 AI 智能分析",
+              "icon": "/assets/favicon_1783359036730.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
