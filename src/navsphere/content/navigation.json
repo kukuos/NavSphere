@@ -196,15 +196,6 @@
               "description": "",
               "icon": "",
               "enabled": true
-            },
-            {
-              "id": "site_1783356751264_krffp6oo9",
-              "title": "Grok",
-              "href": "https://grok.com/",
-              "description": "",
-              "icon": "/assets/favicon_1783356707466.png",
-              "useDefaultIcon": false,
-              "enabled": true
             }
           ]
         },
@@ -2305,6 +2296,15 @@
               "href": "https://www.xiuxitong.com/",
               "description": "",
               "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "site_1783357092951_d1g57kmwk",
+              "title": "Shadowrocket账号共享",
+              "href": "https://999.tudou123.com/",
+              "description": "free.iosapp.icu",
+              "icon": "https://999.tudou123.com/favicon.ico",
+              "useDefaultIcon": false,
               "enabled": true
             }
           ]
