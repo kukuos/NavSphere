@@ -760,15 +760,6 @@
               "icon": "/assets/favicon_1783358139143.png",
               "useDefaultIcon": false,
               "enabled": true
-            },
-            {
-              "id": "site_1783358224073_cn1aqlvhv",
-              "title": "容器镜像加速器监控",
-              "href": "https://status.1panel.top/",
-              "description": "实时监控多种容器镜像源的加速器状态，帮助开发者选择最佳的镜像源",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=status.1panel.top",
-              "useDefaultIcon": false,
-              "enabled": true
             }
           ]
         },
@@ -2331,6 +2322,15 @@
               "href": "https://999.tudou123.com/",
               "description": "free.iosapp.icu",
               "icon": "https://999.tudou123.com/favicon.ico",
+              "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
+              "id": "site_1783358365697_8wj5d6ack",
+              "title": "MIYAIP",
+              "href": "https://www.miyaip.com/",
+              "description": "自带中转代理",
+              "icon": "/assets/favicon_1783358290405.png",
               "useDefaultIcon": false,
               "enabled": true
             }
