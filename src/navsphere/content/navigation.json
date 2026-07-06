@@ -2378,7 +2378,8 @@
               "title": "PixelExperience安卓原生系统",
               "href": "https://get.pixelexperience.org/",
               "description": "",
-              "icon": "",
+              "icon": "https://get.pixelexperience.org/favicon-32x32.png",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
