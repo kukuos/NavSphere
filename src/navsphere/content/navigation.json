@@ -196,6 +196,15 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1783356751264_krffp6oo9",
+              "title": "Grok",
+              "href": "https://grok.com/",
+              "description": "",
+              "icon": "/assets/favicon_1783356707466.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
