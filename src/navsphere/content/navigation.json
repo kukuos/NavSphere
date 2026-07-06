@@ -378,10 +378,11 @@
             },
             {
               "id": "1768300000003",
-              "title": "哩布哩布AI绘画",
+              "title": "Liblib",
               "href": "https://www.liblib.ai/",
-              "description": "",
-              "icon": "",
+              "description": "国内AI绘图",
+              "icon": "/assets/favicon_1783351021878.png",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
