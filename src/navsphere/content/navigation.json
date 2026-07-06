@@ -2327,6 +2327,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1783357242646",
+      "title": "WB3",
+      "icon": "Network",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
