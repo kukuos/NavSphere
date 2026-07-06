@@ -2342,17 +2342,7 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "site_1783357492767_21bb2dt3z",
-              "title": "Binance",
-              "href": "https://www.binance.com/zh-CN/support/announcement/list/93",
-              "description": "查看最新活动",
-              "icon": "/assets/favicon_1783357376198.png",
-              "useDefaultIcon": false,
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "254deb5b-48b5-4882-acd6-5202bd607505",
@@ -2360,7 +2350,17 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1783357585305_64ebebgtz",
+              "title": "Relay",
+              "href": "https://relay.link/",
+              "description": "Web3和加密货币领域打造的跨链支付与交易基础设施平台",
+              "icon": "/assets/favicon_1783357518399.png",
+              "useDefaultIcon": false,
+              "enabled": true
+            }
+          ]
         }
       ]
     }
