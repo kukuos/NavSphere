@@ -149,6 +149,15 @@
               "icon": "/assets/favicon_1783359424050.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783363846719_o8it7ytdd",
+              "title": "酸奶API中转站",
+              "href": "https://closedai.kylenqaq.com/",
+              "description": "",
+              "icon": "https://closedai.kylenqaq.com/logo.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
