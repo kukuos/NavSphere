@@ -229,6 +229,15 @@
               "description": "认识 NotebookLM：给力的 AI 研究工具与思考伙伴，可以帮助您分析来源、理清复杂的资料及转换内容。",
               "icon": "/assets/favicon_1764162265139.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1783357967876_bf7oiytej",
+              "title": "Best Models by Success Rate | PinchBench - OpenClaw Benchmark",
+              "href": "https://pinchbench.com/",
+              "description": "专门用于评估和测试大语言模型（LLM）在 OpenClaw 智能体（AI Agent）框架下表现的专业开源基准测试平台",
+              "icon": "/assets/favicon_1783357910664.ico",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
@@ -2304,15 +2313,6 @@
               "href": "https://999.tudou123.com/",
               "description": "free.iosapp.icu",
               "icon": "https://999.tudou123.com/favicon.ico",
-              "useDefaultIcon": false,
-              "enabled": true
-            },
-            {
-              "id": "site_1783357830792_9bfdilhp7",
-              "title": "2FA.vip",
-              "href": "https://2fa.vip/",
-              "description": "提供在线双重身份验证（2FA，Two-Factor Authentication）辅助工具的网站",
-              "icon": "/assets/favicon_1783357781441.png",
               "useDefaultIcon": false,
               "enabled": true
             }
