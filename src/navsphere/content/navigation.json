@@ -888,6 +888,15 @@
               "icon": "/assets/favicon_1783359128435.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783359579510_5f10jcj3q",
+              "title": "FiNews 美股日报",
+              "href": "https://finews.elsetech.app/",
+              "description": "",
+              "icon": "https://finews.elsetech.app/favicon.svg",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
