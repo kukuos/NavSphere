@@ -62,14 +62,6 @@
           "enabled": true
         },
         {
-          "id": "1761724833829",
-          "title": "Hacker News",
-          "href": "https://news.ycombinator.com/",
-          "description": "",
-          "icon": "/assets/favicon_1761724837449.svg",
-          "enabled": true
-        },
-        {
           "id": "1765256323947",
           "title": "Chrome Webstore Devconsole",
           "href": "https://chrome.google.com/webstore/devconsole",
