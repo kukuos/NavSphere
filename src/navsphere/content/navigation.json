@@ -791,10 +791,11 @@
             },
             {
               "id": "1766148040930",
-              "title": "Website Authority Checker: Check the &quot;Authority&quot; Of Any Domain",
+              "title": "Ahrefs",
               "href": "https://ahrefs.com/website-authority-checker",
-              "description": "Free tool to check the &quot;authority&quot; of any website based on the quality and quantity of its external backlinks.",
+              "description": "国外seo工具",
               "icon": "/assets/favicon_1766148043836.webp",
+              "useDefaultIcon": false,
               "enabled": true
             }
           ]
