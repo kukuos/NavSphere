@@ -196,6 +196,15 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1783359480458_gqvk57kzm",
+              "title": "Siliconflow",
+              "href": "https://www.siliconflow.cn/",
+              "description": "大模型API云服务平台",
+              "icon": "/assets/favicon_1783359424050.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
