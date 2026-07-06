@@ -6,15 +6,6 @@
       "icon": "Star",
       "items": [
         {
-          "id": "1_3",
-          "title": "Cloudflare控制台",
-          "href": "https://dash.cloudflare.com/",
-          "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
-          "icon": "/assets/images/logos/cloudflar.webp",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
           "id": "1_1",
           "title": "Google Analytics",
           "href": "https://analytics.google.com/",
@@ -546,6 +537,15 @@
               "href": "https://vercel.com/",
               "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
               "icon": "/assets/images/logos/vercel.webp",
+              "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
+              "id": "1_3",
+              "title": "Cloudflare控制台",
+              "href": "https://dash.cloudflare.com/",
+              "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
+              "icon": "/assets/images/logos/cloudflar.webp",
               "useDefaultIcon": false,
               "enabled": true
             }
