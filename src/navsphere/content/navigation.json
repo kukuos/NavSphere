@@ -2306,6 +2306,15 @@
               "icon": "https://999.tudou123.com/favicon.ico",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783357830792_9bfdilhp7",
+              "title": "2FA.vip",
+              "href": "https://2fa.vip/",
+              "description": "提供在线双重身份验证（2FA，Two-Factor Authentication）辅助工具的网站",
+              "icon": "/assets/favicon_1783357781441.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
