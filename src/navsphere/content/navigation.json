@@ -2396,7 +2396,17 @@
           "icon": "Link",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1783358854111_edrhiqcap",
+              "title": "世界之窗",
+              "href": "https://s100.987345.xyz/",
+              "description": "s.sjzc101.cc/",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=s100.987345.xyz",
+              "useDefaultIcon": false,
+              "enabled": true
+            }
+          ]
         }
       ]
     },
