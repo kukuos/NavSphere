@@ -6,14 +6,6 @@
       "icon": "Star",
       "items": [
         {
-          "id": "1754229699374",
-          "title": "Lucide",
-          "href": "https://lucide.dev/",
-          "description": "Beautiful & consistent icon toolkit made by the community.",
-          "icon": "/assets/favicon_1754229702059.webp",
-          "enabled": true
-        },
-        {
           "id": "1760507233911",
           "title": "Free for Developers",
           "href": "https://free-for.dev/#/",
@@ -1375,6 +1367,15 @@
               "href": "http://simplelineicons.com/",
               "description": "Simple line Icons pack",
               "icon": "/assets/images/logos/simplelineicons.webp",
+              "enabled": true
+            },
+            {
+              "id": "1754229699374",
+              "title": "Lucide",
+              "href": "https://lucide.dev/",
+              "description": "Beautiful & consistent icon toolkit made by the community.",
+              "icon": "/assets/favicon_1754229702059.webp",
+              "useDefaultIcon": false,
               "enabled": true
             }
           ]
