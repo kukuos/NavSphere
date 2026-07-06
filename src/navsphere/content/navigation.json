@@ -266,7 +266,8 @@
               "title": "AI导航站",
               "href": "https://openi.cn/",
               "description": "",
-              "icon": "",
+              "icon": "/assets/favicon_1783351073783.png",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
