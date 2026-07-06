@@ -1859,6 +1859,15 @@
               "icon": "/assets/favicon_1783359372357.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783359813957_dvyw8stkn",
+              "title": "站长帮",
+              "href": "https://zy.zhanzhangb.cn/",
+              "description": "WordPress 汉化/插件/主题/模板",
+              "icon": "/assets/favicon_1783359789837.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
