@@ -2432,6 +2432,15 @@
               "icon": "/assets/favicon_1783358521945.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783359537180_vinyx8juu",
+              "title": "贷款计算器",
+              "href": "https://daikuanjisuan.com.cn/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=daikuanjisuan.com.cn",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
