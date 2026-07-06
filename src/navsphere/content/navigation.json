@@ -2496,6 +2496,15 @@
               "icon": "/assets/favicon_1783359210018.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783359328323_1abqtdvm5",
+              "title": " Barker",
+              "href": "https://app.barker.money/",
+              "description": "稳定币理财和链上收益管理工具的平台",
+              "icon": "https://app.barker.money/favicon.ico?favicon.d2ad3958.ico",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         }
