@@ -2342,7 +2342,17 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1783357492767_21bb2dt3z",
+              "title": "Binance",
+              "href": "https://www.binance.com/zh-CN/support/announcement/list/93",
+              "description": "查看最新活动",
+              "icon": "/assets/favicon_1783357376198.png",
+              "useDefaultIcon": false,
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "254deb5b-48b5-4882-acd6-5202bd607505",
