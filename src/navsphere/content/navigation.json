@@ -176,7 +176,8 @@
           "title": "新足迹澳洲华人论坛",
           "href": "https://www.oursteps.com.au/",
           "description": "",
-          "icon": "",
+          "icon": "/assets/favicon_1783350974320.png",
+          "useDefaultIcon": false,
           "enabled": true
         },
         {
