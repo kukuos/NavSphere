@@ -1555,14 +1555,6 @@
           "description": "",
           "items": [
             {
-              "id": "1768300000064",
-              "title": "在线Photoshop",
-              "href": "https://www.tuyitu.com/",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "1768300000065",
               "title": "图片拼接",
               "href": "http://pinthemall.net/",
