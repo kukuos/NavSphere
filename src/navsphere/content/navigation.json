@@ -1832,6 +1832,15 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1783359406142_0055ow8q1",
+              "title": "A姐分享",
+              "href": "https://www.ahhhhfs.com/",
+              "description": "整理AI 工具、企业效率软件、开源项目、自托管部署与自动化工作流",
+              "icon": "/assets/favicon_1783359372357.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
@@ -2494,15 +2503,6 @@
               "href": "https://www.coinglass.com/",
               "description": "加密货币数据分析",
               "icon": "/assets/favicon_1783359210018.png",
-              "useDefaultIcon": false,
-              "enabled": true
-            },
-            {
-              "id": "site_1783359328323_1abqtdvm5",
-              "title": " Barker",
-              "href": "https://app.barker.money/",
-              "description": "稳定币理财和链上收益管理工具的平台",
-              "icon": "https://app.barker.money/favicon.ico?favicon.d2ad3958.ico",
               "useDefaultIcon": false,
               "enabled": true
             }
