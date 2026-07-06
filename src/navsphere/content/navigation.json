@@ -180,10 +180,11 @@
         },
         {
           "id": "1768300000007",
-          "title": "v2ex",
+          "title": "V2EX",
           "href": "https://www.v2ex.com/",
-          "description": "",
-          "icon": "",
+          "description": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
+          "icon": "/assets/favicon_1783350881525.png",
+          "useDefaultIcon": false,
           "enabled": true
         }
       ],
