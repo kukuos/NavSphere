@@ -2333,6 +2333,15 @@
               "icon": "/assets/favicon_1783358290405.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783358461011_w9pges7et",
+              "title": "Webshare",
+              "href": "https://www.webshare.io/",
+              "description": "最低价的代理IP，每月免费10个IP代理一G",
+              "icon": "/assets/favicon_1783358387098.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
