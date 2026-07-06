@@ -429,11 +429,12 @@
             },
             {
               "id": "item-1765594481103",
-              "enabled": true,
-              "title": "Multi-Platform Theme Generator & Converter",
+              "title": "Tinte",
               "href": "https://www.tinte.dev/",
-              "description": "Create, convert, and export beautiful themes for VS Code, shadcn/ui, Rayso, TweakCN, terminals, and more. Generate semantic color palettes using OKLCH color space with live previews.",
-              "icon": "/assets/favicon_1765594470605.webp"
+              "description": "前端设计主题系统基础设施Create, convert, and export beautiful themes for VS Code, shadcn/ui, Rayso, TweakCN, terminals, and more. Generate semantic color palettes using OKLCH color space with live previews.",
+              "icon": "/assets/favicon_1765594470605.webp",
+              "useDefaultIcon": false,
+              "enabled": true
             },
             {
               "id": "1735265532154",
