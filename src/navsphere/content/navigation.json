@@ -2343,6 +2343,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "254deb5b-48b5-4882-acd6-5202bd607505",
+          "title": "加密工具",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
