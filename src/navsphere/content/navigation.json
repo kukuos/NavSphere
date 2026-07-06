@@ -751,6 +751,15 @@
               "icon": "/assets/favicon_1765687105275.webp",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783358168844_cy4v0g39t",
+              "title": "gh-proxy",
+              "href": "https://gh-proxy.com/",
+              "description": "GitHub Proxy，GitHub加速下载代理服务，支持 Releases、Raw、Archive、clone 等资源下载加速，解决 GitHub下载访问慢的问题。",
+              "icon": "/assets/favicon_1783358139143.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
