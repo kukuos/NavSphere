@@ -2234,7 +2234,17 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1783358632998_n8j9f7i7x",
+          "title": "德国O2",
+          "href": "https://www.o2online.de/prepaid/user/auth/sim-settings/",
+          "description": "O2 是德国最大的移动通信运营商之一，由西班牙电信(Telefónica)所有",
+          "icon": "/assets/favicon_1783358568561.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "8d870bfa-4d62-4fad-aca4-aaaf5d2962af",
