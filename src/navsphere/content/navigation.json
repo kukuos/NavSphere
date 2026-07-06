@@ -6,14 +6,6 @@
       "icon": "Star",
       "items": [
         {
-          "id": "1_4",
-          "title": "Google AdSense",
-          "href": "https://www.google.com/adsense/",
-          "description": "Google AdSense广告服务。",
-          "icon": "/assets/images/logos/gads.webp",
-          "enabled": true
-        },
-        {
           "id": "1_5",
           "title": "Producthunt",
           "href": "https://www.producthunt.com/",
@@ -803,6 +795,15 @@
               "href": "https://analytics.google.com/",
               "description": "Google分析（Google Analytics）是一个由Google所提供的网站流量统计服务。",
               "icon": "/assets/images/logos/analytics.webp",
+              "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
+              "id": "1_4",
+              "title": "Google AdSense",
+              "href": "https://www.google.com/adsense/",
+              "description": "Google AdSense广告服务。",
+              "icon": "/assets/images/logos/gads.webp",
               "useDefaultIcon": false,
               "enabled": true
             }
