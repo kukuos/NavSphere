@@ -2489,6 +2489,15 @@
               "icon": "https://s.sjzc101.cc/theme/%E4%B8%96%E7%95%8C%E4%B9%8B%E7%AA%97/assets/favicon.svg",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783363939043_xb2am8gj9",
+              "title": "流量光",
+              "href": "https://www.llg01.com",
+              "description": "https://gitee.com/quicweb/llg-url",
+              "icon": "https://www.llg01.com/favicon.svg",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         }
