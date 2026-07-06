@@ -2243,6 +2243,15 @@
           "icon": "/assets/favicon_1783358568561.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783358675036_pe5qhpj42",
+          "title": "多国地址生成器",
+          "href": "https://duoguodizhi.com/",
+          "description": "27 个国家和地区",
+          "icon": "https://duoguodizhi.com/assets/logo-C6hRkao7.svg",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": [
