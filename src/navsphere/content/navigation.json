@@ -76,14 +76,6 @@
           "href": "https://trends.google.com/trends/",
           "description": "",
           "icon": "/assets/favicon_1765686636721.webp"
-        },
-        {
-          "id": "item-1765687115114",
-          "enabled": true,
-          "title": "PageSpeed Insights",
-          "href": "https://pagespeed.web.dev/",
-          "description": "",
-          "icon": "/assets/favicon_1765687105275.webp"
         }
       ],
       "subCategories": [],
@@ -772,6 +764,15 @@
               "href": "https://www.google.com/adsense/",
               "description": "Google AdSense广告服务。",
               "icon": "/assets/images/logos/gads.webp",
+              "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
+              "id": "item-1765687115114",
+              "title": "PageSpeed Insights",
+              "href": "https://pagespeed.web.dev/",
+              "description": "网站速度优化评分",
+              "icon": "/assets/favicon_1765687105275.webp",
               "useDefaultIcon": false,
               "enabled": true
             }
