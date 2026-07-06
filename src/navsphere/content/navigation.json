@@ -4,16 +4,7 @@
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
-      "items": [
-        {
-          "id": "item-1765686645674",
-          "enabled": true,
-          "title": "Google 趋势",
-          "href": "https://trends.google.com/trends/",
-          "description": "",
-          "icon": "/assets/favicon_1765686636721.webp"
-        }
-      ],
+      "items": [],
       "subCategories": [],
       "description": "",
       "enabled": true
@@ -49,6 +40,15 @@
           "href": "https://www.v2ex.com/",
           "description": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
           "icon": "/assets/favicon_1783350881525.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        },
+        {
+          "id": "item-1765686645674",
+          "title": "Google 趋势",
+          "href": "https://trends.google.com/trends/",
+          "description": "",
+          "icon": "/assets/favicon_1765686636721.webp",
           "useDefaultIcon": false,
           "enabled": true
         }
