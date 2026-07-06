@@ -2342,7 +2342,17 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1783357757204_lxmh2v4z2",
+              "title": "HyperX",
+              "href": "https://hyperx.trade/",
+              "description": "跟单交易、“聪明钱”追踪、深度数据分析。专门针对 Hyperliquid 生态打造的一站式综合加密货币交易平台与分析工具。",
+              "icon": "/assets/favicon_1783357658762.ico",
+              "useDefaultIcon": false,
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "254deb5b-48b5-4882-acd6-5202bd607505",
