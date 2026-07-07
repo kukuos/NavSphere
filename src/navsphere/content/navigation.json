@@ -656,6 +656,15 @@
               "icon": "",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1768300000050",
+              "title": "聚名网",
+              "href": "https://www.juming.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
@@ -1995,14 +2004,6 @@
               "id": "1768300000049",
               "title": "桔子SEO",
               "href": "https://seo.juziseo.com/",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1768300000050",
-              "title": "聚名网",
-              "href": "https://www.juming.com/",
               "description": "",
               "icon": "",
               "enabled": true
