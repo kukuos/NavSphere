@@ -163,9 +163,10 @@
             {
               "id": "1768300000002",
               "title": "AIchatOS",
-              "href": "https://c.binjie.fun/",
+              "href": "https://cht18.aichatosd2.com/",
               "description": "",
-              "icon": "",
+              "icon": "/assets/favicon_1783425658004.svg",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
