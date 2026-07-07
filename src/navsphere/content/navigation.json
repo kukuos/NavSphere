@@ -506,6 +506,15 @@
               "icon": "",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1768300000033",
+              "title": "AWS亚马逊云",
+              "href": "https://us-east-1.console.aws.amazon.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
@@ -1845,14 +1854,6 @@
               "id": "1768300000032",
               "title": "爱用云",
               "href": "https://www.aiyongyun.com/cart",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1768300000033",
-              "title": "AWS亚马逊云",
-              "href": "https://us-east-1.console.aws.amazon.com/",
               "description": "",
               "icon": "",
               "enabled": true
