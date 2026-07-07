@@ -647,6 +647,15 @@
               "icon": "",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1768300000040",
+              "title": "比较所有顶级域名的价格",
+              "href": "https://zh-hans.tld-list.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
@@ -1917,14 +1926,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1768300000040",
-              "title": "比较所有顶级域名的价格",
-              "href": "https://zh-hans.tld-list.com/",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            },
             {
               "id": "1768300000041",
               "title": "优采云文章采集器",
