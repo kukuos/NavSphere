@@ -1781,16 +1781,7 @@
           "icon": "",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1768300000024",
-              "title": "Google Adsense",
-              "href": "https://www.google.com/adsense/new/",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "f4104e27-159d-4c6a-9f45-c02a35b8a369",
