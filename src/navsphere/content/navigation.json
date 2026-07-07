@@ -1166,17 +1166,7 @@
           "href": "#交互动效",
           "icon": "Book",
           "description": "",
-          "items": [
-            {
-              "id": "6_2",
-              "title": "principle",
-              "href": "http://principleformac.com/",
-              "description": "专为 macOS 平台设计的交互动效与 UI/UX 原型设计软件",
-              "icon": "/assets/images/logos/principle.webp",
-              "useDefaultIcon": false,
-              "enabled": true
-            }
-          ],
+          "items": [],
           "enabled": true
         },
         {
