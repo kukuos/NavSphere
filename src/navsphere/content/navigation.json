@@ -1039,16 +1039,7 @@
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1759043324693",
-              "title": "Substack",
-              "href": "https://substack.com/",
-              "description": "The app for independent voices",
-              "icon": "/assets/favicon_1759043330135.svg",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },
