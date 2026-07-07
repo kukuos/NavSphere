@@ -1965,14 +1965,6 @@
               "description": "",
               "icon": "",
               "enabled": true
-            },
-            {
-              "id": "1768300000046",
-              "title": "5sim海外接码",
-              "href": "https://5sim.net/zh/",
-              "description": "",
-              "icon": "",
-              "enabled": true
             }
           ]
         },
@@ -2277,6 +2269,15 @@
               "title": "国光黑苹果",
               "href": "https://apple.sqlsec.com/",
               "description": "黑苹果引导",
+              "icon": "",
+              "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
+              "id": "1768300000046",
+              "title": "5sim海外接码",
+              "href": "https://5sim.net/zh/",
+              "description": "",
               "icon": "",
               "useDefaultIcon": false,
               "enabled": true
