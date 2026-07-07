@@ -833,8 +833,9 @@
               "id": "1760611119341",
               "title": "TradingView",
               "href": "https://www.tradingview.com/",
-              "description": "Where the world charts, chats, and trades markets. We&#39;re a supercharged super-charting platform and social network for traders and investors. Free to sign up.",
+              "description": "金融图表分析与投资社群。全球股票、外汇、期货、加密货币及指数",
               "icon": "/assets/favicon_1760611123647.webp",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
@@ -843,6 +844,14 @@
               "href": "https://www.cninfo.com.cn/",
               "description": "巨潮资讯网",
               "icon": "/assets/favicon_1760611181157.webp",
+              "enabled": true
+            },
+            {
+              "id": "1760669308127",
+              "title": "看财报-价值投资分析工具",
+              "href": "https://www.kancaibao.com/",
+              "description": "看财报为价值投资者提供上市公司财务数据,各项基本面分析指标,同时提供DCF折现工具、杜邦分析表、历史PE（市盈率）和PB（市净率）数据、还有多家公司对比和企业估值功能",
+              "icon": "/assets/favicon_1760669311999.webp",
               "enabled": true
             },
             {
