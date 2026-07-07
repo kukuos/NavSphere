@@ -1783,14 +1783,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "1768300000023",
-              "title": "特卖-好单库",
-              "href": "https://hdk.z920.com/",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "1768300000024",
               "title": "Google Adsense",
               "href": "https://www.google.com/adsense/new/",
