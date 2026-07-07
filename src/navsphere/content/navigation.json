@@ -533,6 +533,15 @@
               "icon": "",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1768300000032",
+              "title": "爱用云",
+              "href": "https://www.aiyongyun.com/cart",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
@@ -1892,14 +1901,6 @@
               "id": "1768300000029",
               "title": "Backblaze云存储",
               "href": "https://secure.backblaze.com/",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1768300000032",
-              "title": "爱用云",
-              "href": "https://www.aiyongyun.com/cart",
               "description": "",
               "icon": "",
               "enabled": true
