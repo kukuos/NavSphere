@@ -1681,14 +1681,6 @@
           ]
         },
         {
-          "id": "216de36e-10f6-4c8f-837b-e765674ba9db",
-          "title": "云服务商",
-          "icon": "",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "3679e281-0c07-45f6-8bcc-7836238fe3f8",
           "title": "服务器测评",
           "icon": "",
