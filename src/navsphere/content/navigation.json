@@ -2063,6 +2063,15 @@
               "icon": "",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783445390703_etz1yqf9v",
+              "title": "Shadowrocket账号共享",
+              "href": "https://999.tudou123.com/",
+              "description": "免费美区 Apple ID 和 Shadowrocket 账号共享/free.iosapp.icu",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=999.tudou123.com",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
