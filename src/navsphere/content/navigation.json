@@ -1515,15 +1515,6 @@
       ]
     },
     {
-      "id": "1760512235168",
-      "title": "开源项目",
-      "icon": "Code",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
       "id": "1768300000055",
       "title": "站长工具包",
       "icon": "Server",
