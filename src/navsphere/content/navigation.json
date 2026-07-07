@@ -87,7 +87,7 @@
           "enabled": true,
           "items": [
             {
-              "id": "9_1",
+              "id": "9_2",
               "title": "ChatGPT",
               "href": "https://chat.openai.com/",
               "description": "OpenAI开发的人工智能聊天机器人程序。",
@@ -95,7 +95,7 @@
               "enabled": true
             },
             {
-              "id": "9_2",
+              "id": "9_1",
               "title": "Claude",
               "href": "https://claude.ai/",
               "description": "Anthropic开发的AI助手，擅长分析和创作。",
