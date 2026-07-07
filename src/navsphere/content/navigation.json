@@ -2596,6 +2596,15 @@
               "icon": "/assets/favicon_1783359210018.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783420537314_gfytjg1sh",
+              "title": "Barker",
+              "href": "https://app.barker.money/campaigns",
+              "description": "稳定币理财 的数据聚合与收益管理平台",
+              "icon": "https://app.barker.money/favicon.ico?favicon.d2ad3958.ico",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         }
