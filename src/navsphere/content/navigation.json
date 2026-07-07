@@ -889,16 +889,7 @@
           "icon": "Database",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1760611595643",
-              "title": "palmmicro",
-              "href": "https://palmmicro.com/woody/res/chinafuturecn.php",
-              "description": "A股商品等基金净值计算工具",
-              "icon": "/assets/favicon_1760611626932.webp",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },
