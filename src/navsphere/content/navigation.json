@@ -638,6 +638,15 @@
               "description": "Register domain names at Namecheap. Buy cheap domain names and enjoy 24/7 support. With over 18 million domains under management, you know you’re in good hands.",
               "icon": "/assets/favicon_1754295511938.webp",
               "enabled": true
+            },
+            {
+              "id": "1768300000035",
+              "title": "NameSilo域名服务",
+              "href": "https://www.namesilo.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
@@ -1862,14 +1871,6 @@
               "id": "1768300000034",
               "title": "甲骨文云",
               "href": "https://www.oracle.com/cn/cloud/free/",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1768300000035",
-              "title": "NameSilo域名服务",
-              "href": "https://www.namesilo.com/",
               "description": "",
               "icon": "",
               "enabled": true
