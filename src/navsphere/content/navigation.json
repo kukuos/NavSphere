@@ -712,14 +712,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "1759044534148",
-              "title": "listmonk",
-              "href": "https://listmonk.app/",
-              "description": " Free and open source self-hosted newsletter, mailing list manager, and transactional mails",
-              "icon": "/assets/favicon_1759044556303.webp",
-              "enabled": true
-            },
-            {
               "id": "1759044578679",
               "title": "Ghost",
               "href": "https://ghost.org/",
