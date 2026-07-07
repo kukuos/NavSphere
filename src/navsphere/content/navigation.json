@@ -1630,16 +1630,7 @@
           "icon": "Edit",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1765310098728",
-              "title": "mdBook Documentation",
-              "href": "https://rust-lang.github.io/mdBook/index.html",
-              "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
-              "icon": "/assets/img_1765686772245.webp",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },
