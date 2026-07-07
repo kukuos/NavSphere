@@ -1885,14 +1885,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "1768300000036",
-              "title": "boke112百科",
-              "href": "https://boke112.com/",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "1768300000037",
               "title": "老刘博客",
               "href": "https://www.laoliublog.cn/",
