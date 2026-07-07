@@ -1490,14 +1490,6 @@
           "description": "",
           "items": [
             {
-              "id": "1768300000056",
-              "title": "名称",
-              "href": "网址",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "1768300000057",
               "title": "创客贴",
               "href": "https://www.chuangkit.com/",
