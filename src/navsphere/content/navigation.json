@@ -1808,14 +1808,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "1768300000026",
-              "title": "Google Cloud",
-              "href": "https://console.cloud.google.com/",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "1768300000027",
               "title": "腾讯云",
               "href": "https://console.cloud.tencent.com/",
