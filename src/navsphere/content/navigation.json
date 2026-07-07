@@ -524,6 +524,15 @@
               "icon": "",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1768300000031",
+              "title": "三优云",
+              "href": "https://uuuvps.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
@@ -1883,14 +1892,6 @@
               "id": "1768300000029",
               "title": "Backblaze云存储",
               "href": "https://secure.backblaze.com/",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1768300000031",
-              "title": "三优云",
-              "href": "https://uuuvps.com/",
               "description": "",
               "icon": "",
               "enabled": true
