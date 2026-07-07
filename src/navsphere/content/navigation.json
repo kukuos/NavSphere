@@ -1735,7 +1735,8 @@
               "title": "爱Q生活网",
               "href": "https://www.iqnew.com/",
               "description": "",
-              "icon": "",
+              "icon": "https://www.iqnew.com/favicon.ico",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
