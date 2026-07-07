@@ -87,6 +87,15 @@
           "enabled": true,
           "items": [
             {
+              "id": "site_1783364011664_3toym9k2t",
+              "title": "DeepSeek",
+              "href": "https://chat.deepseek.com/",
+              "description": "",
+              "icon": "https://fe-static.deepseek.com/chat/favicon.svg",
+              "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
               "id": "9_2",
               "title": "ChatGPT",
               "href": "https://chat.openai.com/",
@@ -174,15 +183,6 @@
               "href": "https://closedai.kylenqaq.com/",
               "description": "",
               "icon": "https://closedai.kylenqaq.com/logo.png",
-              "useDefaultIcon": false,
-              "enabled": true
-            },
-            {
-              "id": "site_1783364011664_3toym9k2t",
-              "title": "DeepSeek",
-              "href": "https://chat.deepseek.com/",
-              "description": "",
-              "icon": "https://fe-static.deepseek.com/chat/favicon.svg",
               "useDefaultIcon": false,
               "enabled": true
             }
