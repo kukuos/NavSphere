@@ -1656,14 +1656,6 @@
           ]
         },
         {
-          "id": "430fd688-cab5-45a0-a18a-f60cd243aea3",
-          "title": "网站后台",
-          "icon": "",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "f4104e27-159d-4c6a-9f45-c02a35b8a369",
           "title": "号卡分销",
           "icon": "",
