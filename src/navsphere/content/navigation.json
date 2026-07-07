@@ -488,6 +488,15 @@
               "icon": "/assets/images/logos/cloudflar.webp",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1768300000027",
+              "title": "腾讯云",
+              "href": "https://console.cloud.tencent.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
@@ -1807,14 +1816,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1768300000027",
-              "title": "腾讯云",
-              "href": "https://console.cloud.tencent.com/",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            },
             {
               "id": "1768300000029",
               "title": "Backblaze云存储",
