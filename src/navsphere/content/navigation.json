@@ -546,14 +546,6 @@
           ]
         },
         {
-          "id": "2040df1a-cbcd-40fa-a85c-151b5735fbd2",
-          "title": "画图工具",
-          "icon": "Book",
-          "description": "架构图，流程图",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "62f10118-6926-4ea5-bb65-14adc90a29d2",
           "title": "AI编程工具",
           "icon": "Edit",
