@@ -497,6 +497,15 @@
               "icon": "",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1768300000030",
+              "title": "Gcore",
+              "href": "https://gcore.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
@@ -1820,14 +1829,6 @@
               "id": "1768300000029",
               "title": "Backblaze云存储",
               "href": "https://secure.backblaze.com/",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1768300000030",
-              "title": "Gcore",
-              "href": "https://gcore.com/",
               "description": "",
               "icon": "",
               "enabled": true
