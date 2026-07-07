@@ -723,10 +723,11 @@
             },
             {
               "id": "1768300000005",
-              "title": "Docker Proxy 镜像加速",
+              "title": "Docker镜像加速",
               "href": "https://dockerproxy.net/",
-              "description": "",
-              "icon": "",
+              "description": "dockerproxy.net",
+              "icon": "https://dockerproxy.net/favicon.ico",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
