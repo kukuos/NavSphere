@@ -1698,14 +1698,6 @@
               "enabled": true
             },
             {
-              "id": "1768300000014",
-              "title": "国光黑苹果",
-              "href": "https://apple.sqlsec.com/",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "1768300000015",
               "title": "站长帮",
               "href": "https://www.zhanzhangb.com/",
@@ -2312,6 +2304,15 @@
               "href": "https://appstoreprice.org/zh",
               "description": "实时对比全球各大区 App Store 的应用价格，帮您找到购买数字产品的最佳时机支持实时汇率换算和 AI 智能分析",
               "icon": "/assets/favicon_1783359036730.png",
+              "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
+              "id": "1768300000014",
+              "title": "国光黑苹果",
+              "href": "https://apple.sqlsec.com/",
+              "description": "黑苹果引导",
+              "icon": "",
               "useDefaultIcon": false,
               "enabled": true
             }
