@@ -87,6 +87,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "9_1",
+              "title": "Claude",
+              "href": "https://claude.ai/",
+              "description": "Anthropic开发的AI助手，擅长分析和创作。",
+              "icon": "/assets/images/logos/claude.webp",
+              "enabled": true
+            },
+            {
               "id": "site_1783364011664_3toym9k2t",
               "title": "DeepSeek",
               "href": "https://chat.deepseek.com/",
@@ -101,14 +109,6 @@
               "href": "https://chat.openai.com/",
               "description": "OpenAI开发的人工智能聊天机器人程序。",
               "icon": "/assets/images/logos/chatgpt.webp",
-              "enabled": true
-            },
-            {
-              "id": "9_1",
-              "title": "Claude",
-              "href": "https://claude.ai/",
-              "description": "Anthropic开发的AI助手，擅长分析和创作。",
-              "icon": "/assets/images/logos/claude.webp",
               "enabled": true
             },
             {
