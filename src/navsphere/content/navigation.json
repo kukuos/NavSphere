@@ -1100,8 +1100,9 @@
               "id": "1735256523960",
               "title": "ScreenShots.pro",
               "href": "https://screenshots.pro/",
-              "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
+              "description": "免费在线代码格式化和美化工具",
               "icon": "/assets/img_1735258064656.webp",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
