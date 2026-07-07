@@ -2099,6 +2099,15 @@
               "icon": "https://daikuanjisuan.com.cn/favicon.ico",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783445252623_9p3q8i2ls",
+              "title": "2FA验证器",
+              "href": "https://2fa.vip",
+              "description": "提供双因素身份验证（2FA）在线管理",
+              "icon": "/assets/favicon_1783445216284.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
