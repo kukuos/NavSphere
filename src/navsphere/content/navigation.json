@@ -542,6 +542,15 @@
               "icon": "",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1768300000029",
+              "title": "Backblaze云存储",
+              "href": "https://secure.backblaze.com/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
@@ -1896,16 +1905,7 @@
           "icon": "",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1768300000029",
-              "title": "Backblaze云存储",
-              "href": "https://secure.backblaze.com/",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "3679e281-0c07-45f6-8bcc-7836238fe3f8",
