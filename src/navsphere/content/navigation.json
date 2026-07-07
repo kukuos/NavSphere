@@ -1975,14 +1975,6 @@
               "description": "",
               "icon": "",
               "enabled": true
-            },
-            {
-              "id": "1768300000045",
-              "title": "端口检测",
-              "href": "https://tcp.ping.pe/",
-              "description": "",
-              "icon": "",
-              "enabled": true
             }
           ]
         },
@@ -2264,6 +2256,15 @@
               "id": "1768300000053",
               "title": "TraceRoute路由查询",
               "href": "https://tools.ipip.net/",
+              "description": "",
+              "icon": "",
+              "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
+              "id": "1768300000045",
+              "title": "端口检测",
+              "href": "https://tcp.ping.pe/",
               "description": "",
               "icon": "",
               "useDefaultIcon": false,
