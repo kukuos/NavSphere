@@ -599,14 +599,6 @@
           "items": []
         },
         {
-          "id": "2d7d4354-20f1-41a5-beeb-068031113bca",
-          "title": "视频制作",
-          "icon": "BookOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "5820a691-8aa4-4479-a90f-3789744d944a",
           "title": "知识库",
           "icon": "Code",
