@@ -710,16 +710,7 @@
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1759044578679",
-              "title": "Ghost",
-              "href": "https://ghost.org/",
-              "description": "Beautiful, modern publishing with email newsletters and paid subscriptions built-in. Used by Platformer, 404Media, Lever News, Tangle, The Browser, and thousands more.",
-              "icon": "/assets/favicon_1759044603255.webp",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "2d7d4354-20f1-41a5-beeb-068031113bca",
