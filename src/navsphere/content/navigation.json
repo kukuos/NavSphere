@@ -1183,14 +1183,6 @@
               "icon": "/assets/images/logos/principle.webp",
               "useDefaultIcon": false,
               "enabled": true
-            },
-            {
-              "id": "6_4",
-              "title": "framer",
-              "href": "https://framer.com/",
-              "description": "Design everything from detailed icons to high-fidelity interactions—all in one place.",
-              "icon": "/assets/images/logos/framer.webp",
-              "enabled": true
             }
           ],
           "enabled": true
