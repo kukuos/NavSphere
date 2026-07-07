@@ -591,14 +591,6 @@
           ]
         },
         {
-          "id": "457c35b5-fcfb-4c72-8a9a-af21f9371e6b",
-          "title": "付费订阅托管平台",
-          "icon": "BookOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "044a42a2-b7be-4a19-bce8-1bc3fd98f052",
           "title": "运维工具",
           "icon": "Book",
