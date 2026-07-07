@@ -1872,7 +1872,8 @@
               "title": "小高网",
               "href": "https://www.xgw4.com/",
               "description": "",
-              "icon": "",
+              "icon": "https://www.xgw4.com/favicon.ico",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
