@@ -1100,9 +1100,8 @@
               "id": "1735256523960",
               "title": "ScreenShots.pro",
               "href": "https://screenshots.pro/",
-              "description": "免费在线代码格式化和美化工具",
+              "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.webp",
-              "useDefaultIcon": false,
               "enabled": true
             },
             {
@@ -1180,8 +1179,9 @@
               "id": "6_2",
               "title": "principle",
               "href": "http://principleformac.com/",
-              "description": "Animate Your Ideas, Design Better Apps",
+              "description": "专为 macOS 平台设计的交互动效与 UI/UX 原型设计软件",
               "icon": "/assets/images/logos/principle.webp",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
