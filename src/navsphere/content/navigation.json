@@ -366,6 +366,15 @@
               "icon": "/assets/favicon_1783359424050.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1783600826509_hm2becqw8",
+              "title": "deepseek API",
+              "href": "https://platform.deepseek.com/usage",
+              "description": "",
+              "icon": "/assets/favicon_1783600804850.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         }
