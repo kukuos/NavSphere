@@ -359,6 +359,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "f7f08fec-9166-437f-9e1d-c5e5fe718ec9",
+          "title": "API",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
