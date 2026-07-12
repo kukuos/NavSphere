@@ -19,7 +19,7 @@ interface NavigationCardProps {
 
 export function NavigationCard({ item, siteConfig }: NavigationCardProps) {
   // 获取链接打开方式，默认为新窗口
-  const linkTarget = siteConfig?.navigation?.linkTarget || '_blank'
+  const linkTarget = siteConfig?.navigation?.linkTarget || '_self'
 
   return (
     <TooltipProvider>
