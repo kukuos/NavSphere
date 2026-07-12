@@ -17,7 +17,7 @@
     "docker:stop": "docker-compose -f docker/docker-compose.yml down",
     "docker:logs": "docker-compose -f docker/docker-compose.yml logs -f",
     "docker:deploy": "./scripts/docker-deploy.sh",
-    "cf:build": "npm install --legacy-peer-deps && npx @cloudflare/next-on-pages@1 --force",
+    "cf:build": "pnpm install --frozen-lockfile && pnpm exec @cloudflare/next-on-pages --force",
     "cf:deploy": "wrangler pages deploy .next --project-name navsphere"
   },
   "dependencies": {
