@@ -43,7 +43,9 @@ const config = {
   pages: {
     signIn: '/auth/signin'
   },
-  secret: process.env.GITHUB_CLIENT_SECRET
+  // Required on non-Vercel hosts (Cloudflare Workers), otherwise UntrustedHost is thrown
+  trustHost: true,
+  secret: process.env.AUTH_SECRET ?? process.env.GITHUB_CLIENT_SECRET
 } satisfies NextAuthConfig
 
 const handler = NextAuth(config)
