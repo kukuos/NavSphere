@@ -1,13 +1,19 @@
 name = "navsphere"
-compatibility_date = "2024-11-11"
+main = ".open-next/worker.js"
+compatibility_date = "2026-07-01"
 compatibility_flags = ["nodejs_compat"]
-pages_build_output_dir = ".vercel/output/static"
 
-[env.production.vars]
-GITHUB_CLIENT_ID = "Ov23li5vhfHn4CpNQqcS"
+[assets]
+directory = ".open-next/assets"
+binding = "ASSETS"
+
+[vars]
 GITHUB_OWNER = "kukuos"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
+GITHUB_CLIENT_ID = "Ov23li5vhfHn4CpNQqcS"
 NEXTAUTH_URL = "https://hao123.231652.xyz/api/auth"
-NEXT_PUBLIC_API_URL="https://hao123.231652.xyz"
+NEXT_PUBLIC_API_URL = "https://hao123.231652.xyz"
 
+# 机密（GITHUB_CLIENT_SECRET、NEXTAUTH_SECRET / AUTH_SECRET）不要写在这里，
+# 在 Cloudflare 控制台 Worker → Settings → Variables and Secrets 里以 Secret 形式添加
