@@ -560,6 +560,15 @@
               "icon": "",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1784408711365_xce2oewvp",
+              "title": "AWS控制台",
+              "href": "https://console.aws.amazon.com/",
+              "description": "",
+              "icon": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
