@@ -517,15 +517,6 @@
               "enabled": true
             },
             {
-              "id": "1768300000033",
-              "title": "AWS亚马逊云",
-              "href": "https://us-east-1.console.aws.amazon.com/",
-              "description": "",
-              "icon": "",
-              "useDefaultIcon": false,
-              "enabled": true
-            },
-            {
               "id": "1768300000034",
               "title": "甲骨文云",
               "href": "https://www.oracle.com/cn/cloud/free/",
