@@ -1575,10 +1575,11 @@
           "items": [
             {
               "id": "1768300000008",
-              "title": "蜗牛学社",
-              "href": "https://www.woniuxueshe.com/",
-              "description": "",
-              "icon": "",
+              "title": "Woniushe",
+              "href": "https://www.woniushe.com/page/2",
+              "description": "访问 www.woniushe.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.woniushe.com",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
