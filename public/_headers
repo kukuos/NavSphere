@@ -1,0 +1,30 @@
+# 站内图片/图标（webp/png/jpg/ico/svg 等）：浏览器缓存 7 天
+/assets/*
+  Cache-Control: public, max-age=604800
+
+# 自定义 CSS 更新较频繁，单独缩短为 1 小时
+/assets/css/*
+  ! Cache-Control
+  Cache-Control: public, max-age=3600
+
+/icons/*
+  Cache-Control: public, max-age=604800
+
+/fonts/*
+  Cache-Control: public, max-age=604800
+
+/favicon.png
+  Cache-Control: public, max-age=604800
+
+/favicon.webp
+  Cache-Control: public, max-age=604800
+
+/logo.png
+  Cache-Control: public, max-age=604800
+
+/logo.webp
+  Cache-Control: public, max-age=604800
+
+# 文件名带内容哈希的构建产物：缓存一年且 immutable
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
