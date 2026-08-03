@@ -1788,6 +1788,15 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1785743181553_7py8mofae",
+              "title": "易支付ezfpy",
+              "href": "https://www.ezfpy.cn/Deal/Vip",
+              "description": "",
+              "icon": "https://www.ezfpy.cn/",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
