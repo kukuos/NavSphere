@@ -1797,6 +1797,15 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1785791347425_4at0gl22b",
+              "title": "ezfpy-易支付",
+              "href": "https://www.ezfpy.cn/User/Index",
+              "description": "",
+              "icon": "https://www.ezfpy.cn/favicon.ico",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
