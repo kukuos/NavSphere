@@ -1699,6 +1699,15 @@
               "icon": "https://www.ahhhhfs.com/favicon.ico",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "site_1787673214049_7tn9r3fy2",
+              "title": "柒云数据",
+              "href": "https://cloud.idcfx.com/",
+              "description": "访问 cloud.idcfx.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cloud.idcfx.com",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
