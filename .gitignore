@@ -51,3 +51,8 @@ build/cache/
 /.npm_cache/
 /.venv/
 /.npm_cache/
+
+# OpenNext / Cloudflare build output
+/.open-next/
+.wrangler/
+cloudflare-env.d.ts
