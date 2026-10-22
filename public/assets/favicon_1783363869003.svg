@@ -1,0 +1,16 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="favicon-gradient" x1="256" y1="56" x2="256" y2="456" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#18C3F0"/>
+      <stop offset="1" stop-color="#165DFF"/>
+    </linearGradient>
+  </defs>
+  <path
+    d="M124 90C115 201 134 297 181 375C203 411 229 439 260 462L305 418C216 349 164 239 155 121H194L206 90H124Z"
+    fill="url(#favicon-gradient)"
+  />
+  <path
+    d="M188 90C184 150 190 208 208 260C229 321 265 374 317 421L343 392C392 334 420 269 428 194H311L326 241H367C354 281 334 317 306 349C252 300 219 228 217 147H428V90H188Z"
+    fill="url(#favicon-gradient)"
+  />
+</svg>
